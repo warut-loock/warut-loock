@@ -5,8 +5,8 @@
 I'm an Indie Game Developer crafting handmade **2D Pixel-Art Games** using **Godot 4**. Building games together with my son Key at **Kyoshi Pixel**! With a background as a Certified Android Developer, I love bringing smooth mechanics, great UI, and compelling stories to life across mobile and desktop platforms.
 
 - 🌍  Based in Germany
-- 🌐  Website: [kyoshipixel.games](https://kyoshipixel.games)
-- ✉️  Contact: [w.loock@kyoshipixel.games](mailto:w.loock@kyoshipixel.games)
+- 🌐  Website: In Work
+- ✉️  Contact: In Work
 - 🚀  Currently building 2D Pixel-Art Indie Games for **Steam** & **Google Play**
 - 🤝  Open to connecting with fellow game devs & pixel artists
 
